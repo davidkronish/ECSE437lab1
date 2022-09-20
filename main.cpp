@@ -1,3 +1,5 @@
+//David Kronish 260870097
+//Jeremy Chow 260869534
 #include<iostream>
 using namespace std;
 int main ()
