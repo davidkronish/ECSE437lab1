@@ -1,5 +1,6 @@
 //David Kronish 260870097
 //Jeremy Chow 260869534
+//email: david.kronish@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
